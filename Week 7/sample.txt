@@ -1,0 +1,6 @@
+Line 1: Python Basics
+Line 2: Data Structures
+Line 3: Functions
+Line 4: File Handling
+Line 5: Regex
+Line 6: CSV & JSON
